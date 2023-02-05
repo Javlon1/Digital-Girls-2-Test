@@ -7,6 +7,7 @@ export default function Test() {
     const Results = () => {
         navigate('/result')
     }
+    const localResult = {}
     return (
         <section className='test'>
             <div className='container'>
@@ -42,7 +43,7 @@ export default function Test() {
 
                 </ul>
                 <div className='container__send'>
-                    <button onClick={Results} className='container__send__btn'>тестни тугатиш</button>
+                    <button onClick={Results} className='container__send__btn' disabled>тестни тугатиш</button>
                 </div>
             </div>
         </section >
