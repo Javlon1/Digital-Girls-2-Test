@@ -1,7 +1,12 @@
 import React from 'react'
+import { useNavigate } from 'react-router-dom'
 import './Test.scss'
 
 export default function Test() {
+    const navigate = useNavigate()
+    const Results = () => {
+        navigate('/result')
+    }
     return (
         <section className='test'>
             <div className='container'>
@@ -37,7 +42,7 @@ export default function Test() {
 
                 </ul>
                 <div className='container__send'>
-                    <button className='container__send__btn'>тестни тугатиш</button>
+                    <button onClick={Results} className='container__send__btn'>тестни тугатиш</button>
                 </div>
             </div>
         </section >
