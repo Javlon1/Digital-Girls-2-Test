@@ -1,0 +1,71 @@
+.third {
+    background-image: url('../../Assets/Img/back.png');
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 100% 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    .container {
+        display: flex;
+        justify-content: center;
+
+        &__form {
+            display: flex;
+            align-items: center;
+            justify-content: space-evenly;
+            flex-direction: column;
+            background: linear-gradient(122.18deg, rgba(113, 65, 129, 0.8) 1.31%, rgba(59, 24, 85, 0.8) 99.01%);
+            border: 1.70303px solid #B98C48;
+            backdrop-filter: blur(4.25758px);
+            border-radius: 10px;
+            width: 602px;
+            height: 556px;
+
+            &__title {
+                font-family: 'Comfortaa';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 44px;
+                line-height: 49px;
+                color: #fff;
+            }
+
+            &__div{
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                flex-direction: column;
+                height: 265px;
+                &__inp {
+                    width: 320px;
+                    height: 65px;
+                    background: rgba(255, 255, 255, 0.32);
+                    border: 1.70303px solid #BD00FF;
+                    backdrop-filter: blur(4.25758px);
+                    border-radius: 10px;
+    
+    
+                }
+    
+                &__btn {
+                    width: 320px;
+                    height: 65px;
+                    background: linear-gradient(180deg, #E4C889 0%, #AB7833 100%);
+                    box-shadow: 0px 4px 20px rgba(199, 129, 255, 0.25);
+                    border-radius: 10px;
+                    border: transparent;
+                    font-family: 'Comfortaa';
+                    font-style: normal;
+                    font-weight: 600;
+                    font-size: 28px;
+                    line-height: 31px;
+                    color: #fff;
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,101 @@
+.second {
+    background-image: url('../../Assets/Img/back.png');
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 100% 100%;
+    min-height: 100vh;
+
+    .container {
+        h2 {
+            text-align: center;
+            padding-top: 74px;
+            color: #fff;
+            font-family: 'Comfortaa';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 44px;
+            line-height: 49px;
+        }
+
+        &__list {
+            display: flex;
+            align-items: center;
+            flex-wrap: wrap;
+            justify-content: space-between;
+
+            &__item {
+                margin-top: 55px;
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                flex-direction: column;
+                background: linear-gradient(122.18deg, rgba(113, 65, 129, 0.8) 1.31%, rgba(59, 24, 85, 0.8) 99.01%);
+                border: 1.70303px solid #B98C48;
+                backdrop-filter: blur(4.25758px);
+                border-radius: 10px;
+                width: 281px;
+                height: 281px;
+
+                img {
+                    object-fit: cover;
+                    width: 99%;
+                    height: 212px;
+                    border-radius: 8px 8px 0px 0px;
+                }
+
+                p {
+                    color: #fff;
+                    font-family: 'Comfortaa';
+                    font-style: normal;
+                    font-weight: 700;
+                    font-size: 23.8424px;
+                    line-height: 27px;
+                }
+            }
+        }
+    }
+}
+
+
+@media (max-width: 770px) {
+    .second {
+    
+        .container {
+            h2 {
+                padding-top: 74px;
+                font-size: 44px;
+            }
+    
+            &__list {
+                &__item {
+                    margin-top: 55px;
+                    width: 45%;
+                    height: 271px;
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 438px) {
+    .second {
+    
+        .container {
+            h2 {
+                padding-top: 74px;
+                font-size: 44px;
+            }
+    
+            &__list {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                &__item {
+                    margin-top: 55px;
+                    width: 271px;
+                    height: 271px;
+                }
+            }
+        }
+    }
+}

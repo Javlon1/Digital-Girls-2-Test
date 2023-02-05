@@ -1,0 +1,62 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  font-family: 'Comfortaa' 'cursive';
+}
+
+.App {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+html {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+  width: .5rem;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: rgb(154, 68, 181);
+  border-top-left-radius: 1rem;
+  border-bottom-left-radius: 1rem;
+}
+
+input {
+  outline: none;
+  padding: 0 2rem;
+  color: #fff;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  padding-left: 0;
+  margin-bottom: 0;
+}
+
+li {
+  list-style-type: none;
+}
+
+img{
+  object-fit: cover;
+}

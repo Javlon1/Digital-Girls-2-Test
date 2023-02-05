@@ -1,0 +1,86 @@
+.test {
+    .container {
+        &__title {
+            margin-top: 50px;
+            width: 100%;
+            font-family: 'Lexend';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 50px;
+            line-height: 62px;
+            text-align: center;
+            background: rgba(0, 24, 244, 0.2);
+        }
+
+        &__time {
+            text-align: center;
+            color: #5E12DA;
+            font-family: 'Lexend';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 32px;
+            line-height: 40px;
+            margin-top: 30px;
+        }
+
+        &__list {
+            margin-top: 20px;
+            display: flex;
+            align-items: center;
+            // position: fixed;
+            margin: 0 auto;
+
+            &__name {
+                font-family: 'Lexend';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 32px;
+                line-height: 40px;
+                margin-right: 5px;
+            }
+
+            &__ball {
+                font-family: 'Lexend';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 32px;
+                line-height: 40px;
+                margin-right: 1rem;
+            }
+
+            &__item {
+                width: 85%;
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+
+                p {
+                    margin: 0 10px;
+                    width: 35px;
+                    height: 35px;
+                    border-radius: 50%;
+                    border: 1px solid #5E12DA;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                }
+            }
+        }
+        &__list1{
+            margin-top: 50px;
+            &__item{
+                margin: 0 auto;
+                width: 90%;
+                height: 308px;
+                background: #FFFFFF;
+                box-shadow: 0px 4px 20px rgba(11, 167, 191, 0.2);
+            }
+        }
+    }
+}
+
+.bc {
+    background: rgba(0, 24, 244, 0.2);
+}
+
+// 992
