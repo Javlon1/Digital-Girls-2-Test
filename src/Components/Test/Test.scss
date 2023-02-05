@@ -55,7 +55,7 @@
                 justify-content: space-between;
 
                 p {
-                    margin: 0 10px;
+                    margin: 0;
                     width: 35px;
                     height: 35px;
                     border-radius: 50%;
@@ -67,9 +67,11 @@
             }
         }
         &__list1{
-            margin-top: 50px;
+            margin-top: 10px;
+            overflow-y: scroll;
+            height: 650px;
             &__item{
-                margin: 0 auto;
+                margin: 50px auto;
                 width: 90%;
                 height: 308px;
                 background: #FFFFFF;
