@@ -11,17 +11,17 @@ export default function Test() {
                     <li className='container__list__name'>Kimyo</li>
                     <li className='container__list__ball'>(3.1)</li>
                     <li className='container__list__item'>
-                            <p  className='bc'>1</p>
-                            <p  className=''>1</p>
-                            <p  className=''>1</p>
-                            <p  className=''>1</p>
-                            <p  className=''>1</p>
-                            <p  className=''>1</p>
-                            <p  className=''>1</p>
-                            <p  className=''>1</p>
-                            <p  className=''>1</p>
-                            <p  className=''>1</p>
-                            <p  className=''>1</p>
+                        <p className='bc'>1</p>
+                        <p className=''>1</p>
+                        <p className=''>1</p>
+                        <p className=''>1</p>
+                        <p className=''>1</p>
+                        <p className=''>1</p>
+                        <p className=''>1</p>
+                        <p className=''>1</p>
+                        <p className=''>1</p>
+                        <p className=''>1</p>
+                        <p className=''>1</p>
                     </li>
                 </ul>
                 <ul className='container__list1'>
@@ -34,8 +34,11 @@ export default function Test() {
                     <li className='container__list1__item'>
 
                     </li>
-                   
+
                 </ul>
+                <div className='container__send'>
+                    <button className='container__send__btn'>тестни тугатиш</button>
+                </div>
             </div>
         </section >
     )

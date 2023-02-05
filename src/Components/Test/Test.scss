@@ -1,5 +1,7 @@
 .test {
+
     .container {
+
         &__title {
             margin-top: 50px;
             width: 100%;
@@ -66,16 +68,38 @@
                 }
             }
         }
-        &__list1{
+
+        &__list1 {
             margin-top: 10px;
             overflow-y: scroll;
-            height: 650px;
-            &__item{
+            height: 600px;
+
+            &__item {
                 margin: 50px auto;
                 width: 90%;
                 height: 308px;
                 background: #FFFFFF;
                 box-shadow: 0px 4px 20px rgba(11, 167, 191, 0.2);
+            }
+        }
+
+        &__send {
+            display: flex;
+            justify-content: end;
+
+            &__btn {
+                width: 320px;
+                height: 65px;
+                background: rgba(0, 26, 255, 0.494);
+                box-shadow: 0px 4px 20px rgba(199, 129, 255, 0.25);
+                border-radius: 10px;
+                border: none;
+                font-family: 'Comfortaa';
+                font-style: normal;
+                font-weight: 600;
+                font-size: 28px;
+                line-height: 31px;
+                color: #fff;
             }
         }
     }
