@@ -1,0 +1,82 @@
+.result{
+    background-image: url('../../Assets/Img/back-img.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #F1F3FF;
+    height: 100vh;
+    .container{
+        &__send{
+            margin-top: 50px;
+            display: flex;
+            justify-content: end;
+            button{
+                width: 35px;
+                height: 35px;
+                color: #5E12DA;
+                font-weight: 700;
+                font-size: 1.2rem;
+                border: 2px solid #5E12DA;
+                background-color: transparent;
+            }
+        }
+        &__list{
+            width: 726px;
+            margin: 0 auto;
+            margin-top: 150px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            &__item{
+                width: 193px;
+                height: 193px;
+                border-radius: 50%;
+                border: 1px solid #BD00FF;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                flex-direction: column;
+                &-p{
+                    font-family: 'Lexend';
+                    font-style: normal;
+                    font-weight: 300;
+                    font-size: 22px;
+                    line-height: 28px;
+                    color: #5E12DA;
+                    margin-bottom: 0;
+                }
+                &-b{
+                    font-family: 'Lexend';
+                    font-style: normal;
+                    font-weight: 500;
+                    font-size: 72px;
+                    line-height: 90px;
+                    color: #5E12DA;
+                    samp{
+                        font-size: 2.5rem;
+                    }
+                }
+            }
+        }
+        &__allBall{
+            font-family: 'Lexend';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 66.5589px;
+            line-height: 83px;
+            display: block;
+            text-align: center;
+            color: #5E12DA;
+            margin-top: 130px;
+        }
+        &__ballText{
+            margin-top: 20px;
+            font-family: 'Lexend';
+            font-style: normal;
+            font-weight: 300;
+            font-size: 36.9772px;
+            line-height: 46px;
+            text-align: center;
+            color: #5E12DA;
+        }
+    }
+}

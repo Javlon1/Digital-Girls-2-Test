@@ -10,7 +10,6 @@ import Third from './Components/Third/Third';
 function App() {
   
   const [render, setRender] = useState(false)
-
   return (
     <div className="App">
       <Routes>

@@ -1,5 +1,4 @@
 .test {
-
     .container {
 
         &__title {
@@ -54,10 +53,10 @@
                 width: 85%;
                 display: flex;
                 align-items: center;
-                justify-content: space-between;
+                justify-content: start;
 
                 p {
-                    margin: 0;
+                    margin: 5px;
                     width: 35px;
                     height: 35px;
                     border-radius: 50%;
@@ -109,4 +108,4 @@
     background: rgba(0, 24, 244, 0.2);
 }
 
-// 992
+// 992px

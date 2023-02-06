@@ -35,22 +35,22 @@ export const Directions = [
                 question: "2+5",
                 variants: [
                     {
-                        id: 1,
+                        id: 5,
                         answer: '6',
                         correct: 'false'
                     },
                     {
-                        id: 2,
+                        id: 6,
                         answer: '5',
                         correct: 'false'
                     },
                     {
-                        id: 3,
+                        id: 7,
                         answer: '4',
                         correct: 'false'
                     },
                     {
-                        id: 4,
+                        id: 8,
                         answer: '7',
                         correct: 'false'
                     },
@@ -69,22 +69,22 @@ export const Directions = [
                 question: "1+5",
                 variants: [
                     {
-                        id: 1,
+                        id: 9,
                         answer: '6',
                         correct: 'false'
                     },
                     {
-                        id: 2,
+                        id: 10,
                         answer: '5',
                         correct: 'false'
                     },
                     {
-                        id: 3,
+                        id: 11,
                         answer: '4',
                         correct: 'false'
                     },
                     {
-                        id: 4,
+                        id: 12,
                         answer: '3',
                         correct: 'false'
                     },
@@ -103,22 +103,22 @@ export const Directions = [
                 question: "1+5",
                 variants: [
                     {
-                        id: 1,
+                        id: 13,
                         answer: '6',
                         correct: 'false'
                     },
                     {
-                        id: 2,
+                        id: 14,
                         answer: '5',
                         correct: 'false'
                     },
                     {
-                        id: 3,
+                        id: 15,
                         answer: '4',
                         correct: 'false'
                     },
                     {
-                        id: 4,
+                        id: 16,
                         answer: '3',
                         correct: 'false'
                     },
@@ -137,22 +137,22 @@ export const Directions = [
                 question: "1+5",
                 variants: [
                     {
-                        id: 1,
+                        id: 17,
                         answer: '6',
                         correct: 'false'
                     },
                     {
-                        id: 2,
+                        id: 18,
                         answer: '5',
                         correct: 'false'
                     },
                     {
-                        id: 3,
+                        id: 19,
                         answer: '4',
                         correct: 'false'
                     },
                     {
-                        id: 4,
+                        id: 20,
                         answer: '3',
                         correct: 'false'
                     },
@@ -171,22 +171,22 @@ export const Directions = [
                 question: "1+5",
                 variants: [
                     {
-                        id: 1,
+                        id: 21,
                         answer: '6',
                         correct: 'false'
                     },
                     {
-                        id: 2,
+                        id: 22,
                         answer: '5',
                         correct: 'false'
                     },
                     {
-                        id: 3,
+                        id: 23,
                         answer: '4',
                         correct: 'false'
                     },
                     {
-                        id: 4,
+                        id: 24,
                         answer: '3',
                         correct: 'false'
                     },
@@ -205,22 +205,22 @@ export const Directions = [
                 question: "1+5",
                 variants: [
                     {
-                        id: 1,
+                        id: 25,
                         answer: '6',
                         correct: 'false'
                     },
                     {
-                        id: 2,
+                        id: 26,
                         answer: '5',
                         correct: 'false'
                     },
                     {
-                        id: 3,
+                        id: 27,
                         answer: '4',
                         correct: 'false'
                     },
                     {
-                        id: 4,
+                        id: 28,
                         answer: '3',
                         correct: 'false'
                     },
@@ -239,22 +239,22 @@ export const Directions = [
                 question: "1+5",
                 variants: [
                     {
-                        id: 1,
+                        id: 29,
                         answer: '6',
                         correct: 'false'
                     },
                     {
-                        id: 2,
+                        id: 30,
                         answer: '5',
                         correct: 'false'
                     },
                     {
-                        id: 3,
+                        id: 31,
                         answer: '4',
                         correct: 'false'
                     },
                     {
-                        id: 4,
+                        id: 32,
                         answer: '3',
                         correct: 'false'
                     },
@@ -273,22 +273,22 @@ export const Directions = [
                 question: "1+5",
                 variants: [
                     {
-                        id: 1,
+                        id: 33,
                         answer: '6',
                         correct: 'false'
                     },
                     {
-                        id: 2,
+                        id: 34,
                         answer: '5',
                         correct: 'false'
                     },
                     {
-                        id: 3,
+                        id: 35,
                         answer: '4',
                         correct: 'false'
                     },
                     {
-                        id: 4,
+                        id: 36,
                         answer: '3',
                         correct: 'false'
                     },
