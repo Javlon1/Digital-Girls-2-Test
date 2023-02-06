@@ -44,11 +44,11 @@ export default function Test() {
                             {
                                 event.test?.map((e, i) => (
                                     <li key={e.id} className='container__list1__item'>
-                                        <ul>
-                                            <b>{i + 1}) {e.question}</b>
+                                        <ul className='container__list1__item__list'>
+                                            <b className='container__list1__item__list__vopr'>{i + 1}) {e.question}</b>
                                             {
                                                 e.variants?.map((j, q) => (
-                                                    <li key={j.id}>{q + 1}) {j.answer}</li>
+                                                    <li className='container__list1__item__list__otv' key={j.id}>{q + 1}) {j.answer}</li>
                                                 ))
                                             }
                                         </ul>
