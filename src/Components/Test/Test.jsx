@@ -17,6 +17,22 @@ export default function Test() {
     direction.push(localData[(selector.users[0].Directions) - 1]);
 
     const Results = () => {
+
+        // fetch('https://63c2c490b0c286fbe5f347e9.mockapi.io/', {
+        //     method: 'POST',
+        //     headers: {
+        //         'Content-type': 'application/json', // qysi formatta yuborish
+        //         'Accept': 'application/json', // qysi formatta uni qabul qilib olishi
+        //         'Access-Control-Allow-Origin': '*' // ruxsat berish hammaga
+        //     },
+        //     body: JSON.stringify({
+        //         name: el.name.value, //нужно-изменить
+        //         tel: parseInt(el.tel.value) //нужно-изменить
+        //     })
+        // })
+        //     .then((res) => res.json())
+        //     .then((data) => console.table(data))
+
         navigate('/result')
     }
 
