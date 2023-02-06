@@ -28,9 +28,10 @@ export const Directions = [
                         id: 4,
                         answer: 'Ilon Mask',
                         correct: 'false'
-                    },
+                    }
                 ]
-            },{
+            },
+            {
                 id: 2,
                 question: "5, 2, 8, 9 sonlarini o'rta arifmetigi nechchi bo'ladi",
                 variants: [
@@ -53,9 +54,10 @@ export const Directions = [
                         id: 8,
                         answer: '7',
                         correct: 'false'
-                    },
+                    }
                 ]
-            },{
+            },
+            {
                 id: 3,
                 question: "2*2+2 nechchi bo'ladi",
                 variants: [
@@ -78,9 +80,10 @@ export const Directions = [
                         id: 12,
                         answer: '7',
                         correct: 'false'
-                    },
+                    }
                 ]
-            },{
+            },
+            {
                 id: 4,
                 question: "Kompyuter so'zining manosi nima?",
                 variants: [
@@ -103,7 +106,7 @@ export const Directions = [
                         id: 16,
                         answer: 'hisoblagich',
                         correct: 'true'
-                    },
+                    }
                 ]
             }
         ]
@@ -137,9 +140,10 @@ export const Directions = [
                         id: 20,
                         answer: 'Twiter',
                         correct: 'false'
-                    },
+                    }
                 ]
-            },{
+            },
+            {
                 id: 2,
                 question: "Hozirgi kunda dunyoni eng boy insoni qaysi kasb egasi",
                 variants: [
@@ -162,9 +166,10 @@ export const Directions = [
                         id: 24,
                         answer: 'Prezident',
                         correct: 'false'
-                    },
+                    }
                 ]
-            },{
+            },
+            {
                 id: 3,
                 question: "Suvni tagida qanday tosh bo'lmaydi",
                 variants: [
@@ -187,10 +192,10 @@ export const Directions = [
                         id: 28,
                         answer: 'Quruq',
                         correct: 'true'
-                    },
+                    }
                 ]
             },
-            ,{
+            {
                 id: 4,
                 question: "Klaviatura mishka kompyuiterni qanday qurilmasi",
                 variants: [
@@ -213,9 +218,9 @@ export const Directions = [
                         id: 32,
                         answer: 'tashqi',
                         correct: 'true'
-                    },
+                    }
                 ]
-            },
+            }
         ]
     },
     {
@@ -247,9 +252,10 @@ export const Directions = [
                         id: 36,
                         answer: 'Ilon Mask',
                         correct: 'false'
-                    },
+                    }
                 ]
-            },{
+            },
+            {
                 id: 2,
                 question: "5, 2, 8, 9 sonlarini o'rta arifmetigi nechchi bo'ladi",
                 variants: [
@@ -272,9 +278,10 @@ export const Directions = [
                         id: 40,
                         answer: '7',
                         correct: 'false'
-                    },
+                    }
                 ]
-            },{
+            },
+            {
                 id: 3,
                 question: "2*2+2 nechchi bo'ladi",
                 variants: [
@@ -297,9 +304,10 @@ export const Directions = [
                         id: 44,
                         answer: '7',
                         correct: 'false'
-                    },
+                    }
                 ]
-            },{
+            },
+            {
                 id: 4,
                 question: "Kompyuter so'zining manosi nima?",
                 variants: [
@@ -322,7 +330,7 @@ export const Directions = [
                         id: 48,
                         answer: 'hisoblagich',
                         correct: 'true'
-                    },
+                    }
                 ]
             }
         ]
@@ -356,9 +364,10 @@ export const Directions = [
                         id: 52,
                         answer: 'Twiter',
                         correct: 'false'
-                    },
+                    }
                 ]
-            },{
+            },
+            {
                 id: 2,
                 question: "Hozirgi kunda dunyoni eng boy insoni qaysi kasb egasi",
                 variants: [
@@ -381,9 +390,10 @@ export const Directions = [
                         id: 56,
                         answer: 'Prezident',
                         correct: 'false'
-                    },
+                    }
                 ]
-            },{
+            },
+            {
                 id: 3,
                 question: "Suvni tagida qanday tosh bo'lmaydi",
                 variants: [
@@ -406,10 +416,10 @@ export const Directions = [
                         id: 60,
                         answer: 'Quruq',
                         correct: 'true'
-                    },
+                    }
                 ]
             },
-            ,{
+            {
                 id: 4,
                 question: "Klaviatura mishka kompyuiterni qanday qurilmasi",
                 variants: [
@@ -432,9 +442,9 @@ export const Directions = [
                         id: 64,
                         answer: 'tashqi',
                         correct: 'true'
-                    },
+                    }
                 ]
-            },
+            }
         ]
     },
     {
@@ -466,9 +476,10 @@ export const Directions = [
                         id: 68,
                         answer: 'Ilon Mask',
                         correct: 'false'
-                    },
+                    }
                 ]
-            },{
+            },
+            {
                 id: 2,
                 question: "5, 2, 8, 9 sonlarini o'rta arifmetigi nechchi bo'ladi",
                 variants: [
@@ -491,9 +502,10 @@ export const Directions = [
                         id: 72,
                         answer: '7',
                         correct: 'false'
-                    },
+                    }
                 ]
-            },{
+            },
+            {
                 id: 3,
                 question: "2*2+2 nechchi bo'ladi",
                 variants: [
@@ -516,9 +528,10 @@ export const Directions = [
                         id: 76,
                         answer: '7',
                         correct: 'false'
-                    },
+                    }
                 ]
-            },{
+            },
+            {
                 id: 4,
                 question: "Kompyuter so'zining manosi nima?",
                 variants: [
@@ -541,7 +554,7 @@ export const Directions = [
                         id: 80,
                         answer: 'hisoblagich',
                         correct: 'true'
-                    },
+                    }
                 ]
             }
         ]
@@ -575,9 +588,10 @@ export const Directions = [
                         id: 84,
                         answer: 'Twiter',
                         correct: 'false'
-                    },
+                    }
                 ]
-            },{
+            },
+            {
                 id: 2,
                 question: "Hozirgi kunda dunyoni eng boy insoni qaysi kasb egasi",
                 variants: [
@@ -600,9 +614,10 @@ export const Directions = [
                         id: 88,
                         answer: 'Prezident',
                         correct: 'false'
-                    },
+                    }
                 ]
-            },{
+            },
+            {
                 id: 3,
                 question: "Suvni tagida qanday tosh bo'lmaydi",
                 variants: [
@@ -625,10 +640,10 @@ export const Directions = [
                         id: 92,
                         answer: 'Quruq',
                         correct: 'true'
-                    },
+                    }
                 ]
             },
-            ,{
+            {
                 id: 4,
                 question: "Klaviatura mishka kompyuiterni qanday qurilmasi",
                 variants: [
@@ -651,9 +666,9 @@ export const Directions = [
                         id: 96,
                         answer: 'tashqi',
                         correct: 'true'
-                    },
+                    }
                 ]
-            },
+            }
         ]
     },
     {
@@ -685,9 +700,10 @@ export const Directions = [
                         id: 100,
                         answer: 'Ilon Mask',
                         correct: 'false'
-                    },
+                    }
                 ]
-            },{
+            },
+            {
                 id: 2,
                 question: "5, 2, 8, 9 sonlarini o'rta arifmetigi nechchi bo'ladi",
                 variants: [
@@ -710,9 +726,10 @@ export const Directions = [
                         id: 104,
                         answer: '7',
                         correct: 'false'
-                    },
+                    }
                 ]
-            },{
+            },
+            {
                 id: 3,
                 question: "2*2+2 nechchi bo'ladi",
                 variants: [
@@ -735,9 +752,10 @@ export const Directions = [
                         id: 108,
                         answer: '7',
                         correct: 'false'
-                    },
+                    }
                 ]
-            },{
+            },
+            {
                 id: 4,
                 question: "Kompyuter so'zining manosi nima?",
                 variants: [
@@ -760,7 +778,7 @@ export const Directions = [
                         id: 112,
                         answer: 'hisoblagich',
                         correct: 'true'
-                    },
+                    }
                 ]
             }
         ]
@@ -794,9 +812,10 @@ export const Directions = [
                         id: 116,
                         answer: 'Twiter',
                         correct: 'false'
-                    },
+                    }
                 ]
-            },{
+            },
+            {
                 id: 2,
                 question: "Hozirgi kunda dunyoni eng boy insoni qaysi kasb egasi",
                 variants: [
@@ -819,9 +838,10 @@ export const Directions = [
                         id: 120,
                         answer: 'Prezident',
                         correct: 'false'
-                    },
+                    }
                 ]
-            },{
+            },
+            {
                 id: 3,
                 question: "Suvni tagida qanday tosh bo'lmaydi",
                 variants: [
@@ -844,10 +864,10 @@ export const Directions = [
                         id: 124,
                         answer: 'Quruq',
                         correct: 'true'
-                    },
+                    }
                 ]
             },
-            ,{
+            {
                 id: 4,
                 question: "Klaviatura mishka kompyuiterni qanday qurilmasi",
                 variants: [
@@ -870,9 +890,9 @@ export const Directions = [
                         id: 128,
                         answer: 'tashqi',
                         correct: 'true'
-                    },
+                    }
                 ]
-            },
+            }
         ]
-    },
+    }
 ]
